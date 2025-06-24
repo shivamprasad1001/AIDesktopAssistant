@@ -1,0 +1,758 @@
+{
+    "chrome": {
+        "aliases": [
+            "google chrome",
+            "browser"
+        ],
+        "executables": {
+            "windows": "chrome.exe",
+            "mac": "Google Chrome",
+            "linux": "google-chrome"
+        }
+    },
+    "paint": {
+        "aliases": [
+            "open paint",
+            "paint"
+        ],
+        "executables": {
+            "windows": "mspaint"
+        }
+    },
+    "terminal": {
+        "aliases": [
+            "terminal",
+            "command prompt",
+            "console"
+        ],
+        "executables": {
+            "windows": "cmd.exe"
+        }
+    },
+    "vscode": {
+        "aliases": [
+            "vs code",
+            "code",
+            "visual studio"
+        ],
+        "executables": {
+            "windows": "code",
+            "mac": "Visual Studio Code",
+            "linux": "code"
+        }
+    },
+    "firefox": {
+        "aliases": [
+            "mozilla",
+            "firefox browser"
+        ],
+        "executables": {
+            "windows": "firefox.exe",
+            "mac": "Firefox",
+            "linux": "firefox"
+        }
+    },
+    "edge": {
+        "aliases": [
+            "microsoft edge",
+            "msedge"
+        ],
+        "executables": {
+            "windows": "msedge.exe",
+            "mac": "Microsoft Edge",
+            "linux": "microsoft-edge"
+        }
+    },
+    "spotify": {
+        "aliases": [
+            "music player",
+            "streaming"
+        ],
+        "executables": {
+            "windows": "spotify.exe",
+            "mac": "Spotify",
+            "linux": "spotify"
+        }
+    },
+    "discord": {
+        "aliases": [
+            "chat app",
+            "gaming chat"
+        ],
+        "executables": {
+            "windows": "discord.exe",
+            "mac": "Discord",
+            "linux": "discord"
+        }
+    },
+    "zoom": {
+        "aliases": [
+            "video call",
+            "meeting"
+        ],
+        "executables": {
+            "windows": "zoom.exe",
+            "mac": "zoom.us",
+            "linux": "zoom"
+        }
+    },
+    "slack": {
+        "aliases": [
+            "team chat",
+            "work chat"
+        ],
+        "executables": {
+            "windows": "slack.exe",
+            "mac": "Slack",
+            "linux": "slack"
+        }
+    },
+    "word": {
+        "aliases": [
+            "microsoft word",
+            "document"
+        ],
+        "executables": {
+            "windows": "winword.exe",
+            "mac": "Microsoft Word"
+        }
+    },
+    "excel": {
+        "aliases": [
+            "microsoft excel",
+            "spreadsheet"
+        ],
+        "executables": {
+            "windows": "excel.exe",
+            "mac": "Microsoft Excel"
+        }
+    },
+    "powerpoint": {
+        "aliases": [
+            "microsoft powerpoint",
+            "presentation"
+        ],
+        "executables": {
+            "windows": "powerpnt.exe",
+            "mac": "Microsoft PowerPoint"
+        }
+    },
+    "outlook": {
+        "aliases": [
+            "microsoft outlook",
+            "email"
+        ],
+        "executables": {
+            "windows": "outlook.exe",
+            "mac": "Microsoft Outlook"
+        }
+    },
+    "calculator": {
+        "aliases": [
+            "calc",
+            "math"
+        ],
+        "executables": {
+            "windows": "calc.exe",
+            "mac": "Calculator",
+            "linux": "gnome-calculator"
+        }
+    },
+    "photoshop": {
+        "aliases": [
+            "adobe photoshop",
+            "photo editor"
+        ],
+        "executables": {
+            "windows": "photoshop.exe",
+            "mac": "Adobe Photoshop"
+        }
+    },
+    "illustrator": {
+        "aliases": [
+            "adobe illustrator",
+            "vector"
+        ],
+        "executables": {
+            "windows": "illustrator.exe",
+            "mac": "Adobe Illustrator"
+        }
+    },
+    "premiere": {
+        "aliases": [
+            "adobe premiere",
+            "video editor"
+        ],
+        "executables": {
+            "windows": "premiere.exe",
+            "mac": "Adobe Premiere Pro"
+        }
+    },
+    "vlc": {
+        "aliases": [
+            "media player",
+            "video player"
+        ],
+        "executables": {
+            "windows": "vlc.exe",
+            "mac": "VLC",
+            "linux": "vlc"
+        }
+    },
+    "itunes": {
+        "aliases": [
+            "apple music",
+            "music library"
+        ],
+        "executables": {
+            "mac": "iTunes"
+        }
+    },
+    "docker": {
+        "aliases": [
+            "containers",
+            "devops"
+        ],
+        "executables": {
+            "windows": "docker.exe",
+            "mac": "Docker",
+            "linux": "docker"
+        }
+    },
+    "postman": {
+        "aliases": [
+            "api tester",
+            "rest client"
+        ],
+        "executables": {
+            "windows": "postman.exe",
+            "mac": "Postman",
+            "linux": "postman"
+        }
+    },
+    "pycharm": {
+        "aliases": [
+            "python ide",
+            "python editor"
+        ],
+        "executables": {
+            "windows": "pycharm64.exe",
+            "mac": "PyCharm",
+            "linux": "pycharm"
+        }
+    },
+    "intellij": {
+        "aliases": [
+            "java ide",
+            "idea"
+        ],
+        "executables": {
+            "windows": "idea64.exe",
+            "mac": "IntelliJ IDEA",
+            "linux": "idea"
+        }
+    },
+    "sublime": {
+        "aliases": [
+            "sublime text",
+            "text editor"
+        ],
+        "executables": {
+            "windows": "sublime_text.exe",
+            "mac": "Sublime Text",
+            "linux": "subl"
+        }
+    },
+    "notepadplus": {
+        "aliases": [
+            "notepad++",
+            "advanced notepad"
+        ],
+        "executables": {
+            "windows": "notepad++.exe"
+        }
+    },
+    "obs": {
+        "aliases": [
+            "open broadcaster",
+            "streaming"
+        ],
+        "executables": {
+            "windows": "obs64.exe",
+            "mac": "OBS",
+            "linux": "obs"
+        }
+    },
+    "teams": {
+        "aliases": [
+            "microsoft teams",
+            "office chat"
+        ],
+        "executables": {
+            "windows": "teams.exe",
+            "mac": "Microsoft Teams",
+            "linux": "teams"
+        }
+    },
+    "whatsapp": {
+        "aliases": [
+            "messenger",
+            "chat"
+        ],
+        "executables": {
+            "windows": "whatsapp.exe",
+            "mac": "WhatsApp"
+        }
+    },
+    "telegram": {
+        "aliases": [
+            "secure chat",
+            "messaging"
+        ],
+        "executables": {
+            "windows": "telegram.exe",
+            "mac": "Telegram",
+            "linux": "telegram-desktop"
+        }
+    },
+    "skype": {
+        "aliases": [
+            "video chat",
+            "old chat"
+        ],
+        "executables": {
+            "windows": "skype.exe",
+            "mac": "Skype",
+            "linux": "skypeforlinux"
+        }
+    },
+    "blender": {
+        "aliases": [
+            "3d editor",
+            "animation"
+        ],
+        "executables": {
+            "windows": "blender.exe",
+            "mac": "Blender",
+            "linux": "blender"
+        }
+    },
+    "gimp": {
+        "aliases": [
+            "image editor",
+            "free photoshop"
+        ],
+        "executables": {
+            "windows": "gimp-2.10.exe",
+            "mac": "GIMP",
+            "linux": "gimp"
+        }
+    },
+    "audacity": {
+        "aliases": [
+            "audio editor",
+            "sound recorder"
+        ],
+        "executables": {
+            "windows": "audacity.exe",
+            "mac": "Audacity",
+            "linux": "audacity"
+        }
+    },
+    "steam": {
+        "aliases": [
+            "game store",
+            "gaming"
+        ],
+        "executables": {
+            "windows": "steam.exe",
+            "mac": "Steam",
+            "linux": "steam"
+        }
+    },
+    "epicgames": {
+        "aliases": [
+            "epic store",
+            "game launcher"
+        ],
+        "executables": {
+            "windows": "epicgameslauncher.exe",
+            "mac": "Epic Games Launcher"
+        }
+    },
+    "minecraft": {
+        "aliases": [
+            "block game",
+            "sandbox"
+        ],
+        "executables": {
+            "windows": "minecraft-launcher.exe",
+            "mac": "Minecraft Launcher",
+            "linux": "minecraft-launcher"
+        }
+    },
+    "libreoffice": {
+        "aliases": [
+            "free office",
+            "open office"
+        ],
+        "executables": {
+            "windows": "soffice.exe",
+            "mac": "LibreOffice",
+            "linux": "libreoffice"
+        }
+    },
+    "filezilla": {
+        "aliases": [
+            "ftp client",
+            "file transfer"
+        ],
+        "executables": {
+            "windows": "filezilla.exe",
+            "mac": "FileZilla",
+            "linux": "filezilla"
+        }
+    },
+    "virtualbox": {
+        "aliases": [
+            "virtual machine",
+            "vm"
+        ],
+        "executables": {
+            "windows": "virtualbox.exe",
+            "mac": "VirtualBox",
+            "linux": "virtualbox"
+        }
+    },
+    "wireshark": {
+        "aliases": [
+            "network analyzer",
+            "packet sniffer"
+        ],
+        "executables": {
+            "windows": "wireshark.exe",
+            "mac": "Wireshark",
+            "linux": "wireshark"
+        }
+    },
+    "python": {
+        "aliases": [
+            "python shell",
+            "python idle"
+        ],
+        "executables": {
+            "windows": "python.exe",
+            "mac": "Python",
+            "linux": "python3"
+        }
+    },
+    "node": {
+        "aliases": [
+            "node.js",
+            "javascript runtime"
+        ],
+        "executables": {
+            "windows": "node.exe",
+            "mac": "Node.js",
+            "linux": "node"
+        }
+    },
+    "git": {
+        "aliases": [
+            "git bash",
+            "version control"
+        ],
+        "executables": {
+            "windows": "git-bash.exe",
+            "mac": "Git",
+            "linux": "git"
+        }
+    },
+    "powershell": {
+        "aliases": [
+            "advanced shell",
+            "ps"
+        ],
+        "executables": {
+            "windows": "powershell.exe"
+        }
+    },
+    "explorer": {
+        "aliases": [
+            "file explorer",
+            "files"
+        ],
+        "executables": {
+            "windows": "explorer.exe"
+        }
+    },
+    "calendar": {
+        "aliases": [
+            "date",
+            "schedule"
+        ],
+        "executables": {
+            "windows": "outlookcal.exe",
+            "mac": "Calendar"
+        }
+    },
+    "photos": {
+        "aliases": [
+            "picture viewer",
+            "gallery"
+        ],
+        "executables": {
+            "windows": "photoviewer.dll",
+            "mac": "Photos"
+        }
+    },
+    "onenote": {
+        "aliases": [
+            "microsoft onenote",
+            "notes"
+        ],
+        "executables": {
+            "windows": "onenote.exe",
+            "mac": "Microsoft OneNote"
+        }
+    },
+    "acrobat": {
+        "aliases": [
+            "adobe reader",
+            "pdf reader"
+        ],
+        "executables": {
+            "windows": "acrobat.exe",
+            "mac": "Adobe Acrobat Reader"
+        }
+    },
+    "figma": {
+        "aliases": [
+            "ui design",
+            "prototyping"
+        ],
+        "executables": {
+            "windows": "figma.exe",
+            "mac": "Figma",
+            "linux": "figma"
+        }
+    },
+    "canva": {
+        "aliases": [
+            "graphic design",
+            "online design"
+        ],
+        "executables": {
+            "windows": "canva.exe",
+            "mac": "Canva",
+            "linux": "canva"
+        }
+    },
+    "aws": {
+        "aliases": [
+            "amazon console",
+            "cloud"
+        ],
+        "executables": {
+            "windows": "start https://console.aws.amazon.com",
+            "mac": "open https://console.aws.amazon.com",
+            "linux": "xdg-open https://console.aws.amazon.com"
+        }
+    },
+    "azure": {
+        "aliases": [
+            "microsoft cloud",
+            "azure portal"
+        ],
+        "executables": {
+            "windows": "start https://portal.azure.com",
+            "mac": "open https://portal.azure.com",
+            "linux": "xdg-open https://portal.azure.com"
+        }
+    },
+    "gmail": {
+        "aliases": [
+            "google mail",
+            "email"
+        ],
+        "executables": {
+            "windows": "start https://mail.google.com",
+            "mac": "open https://mail.google.com",
+            "linux": "xdg-open https://mail.google.com"
+        }
+    },
+    "drive": {
+        "aliases": [
+            "google drive",
+            "cloud storage"
+        ],
+        "executables": {
+            "windows": "start https://drive.google.com",
+            "mac": "open https://drive.google.com",
+            "linux": "xdg-open https://drive.google.com"
+        }
+    },
+    "github": {
+        "aliases": [
+            "git hosting",
+            "code repository"
+        ],
+        "executables": {
+            "windows": "start https://github.com",
+            "mac": "open https://github.com",
+            "linux": "xdg-open https://github.com"
+        }
+    },
+    "gitlab": {
+        "aliases": [
+            "devops platform",
+            "code ci"
+        ],
+        "executables": {
+            "windows": "start https://gitlab.com",
+            "mac": "open https://gitlab.com",
+            "linux": "xdg-open https://gitlab.com"
+        }
+    },
+    "youtube": {
+        "aliases": [
+            "video streaming",
+            "videos"
+        ],
+        "executables": {
+            "windows": "start https://youtube.com",
+            "mac": "open https://youtube.com",
+            "linux": "xdg-open https://youtube.com"
+        }
+    },
+    "netflix": {
+        "aliases": [
+            "movie streaming",
+            "tv shows"
+        ],
+        "executables": {
+            "windows": "start https://netflix.com",
+            "mac": "open https://netflix.com",
+            "linux": "xdg-open https://netflix.com"
+        }
+    },
+    "primevideo": {
+        "aliases": [
+            "amazon video",
+            "prime"
+        ],
+        "executables": {
+            "windows": "start https://primevideo.com",
+            "mac": "open https://primevideo.com",
+            "linux": "xdg-open https://primevideo.com"
+        }
+    },
+    "twitter": {
+        "aliases": [
+            "social media",
+            "tweets"
+        ],
+        "executables": {
+            "windows": "start https://twitter.com",
+            "mac": "open https://twitter.com",
+            "linux": "xdg-open https://twitter.com"
+        }
+    },
+    "facebook": {
+        "aliases": [
+            "social network",
+            "fb"
+        ],
+        "executables": {
+            "windows": "start https://facebook.com",
+            "mac": "open https://facebook.com",
+            "linux": "xdg-open https://facebook.com"
+        }
+    },
+    "instagram": {
+        "aliases": [
+            "photo sharing",
+            "ig"
+        ],
+        "executables": {
+            "windows": "start https://instagram.com",
+            "mac": "open https://instagram.com",
+            "linux": "xdg-open https://instagram.com"
+        }
+    },
+    "linkedin": {
+        "aliases": [
+            "professional network",
+            "jobs"
+        ],
+        "executables": {
+            "windows": "start https://linkedin.com",
+            "mac": "open https://linkedin.com",
+            "linux": "xdg-open https://linkedin.com"
+        }
+    },
+    "notion": {
+        "aliases": [
+            "note taking",
+            "workspace"
+        ],
+        "executables": {
+            "windows": "notion.exe",
+            "mac": "Notion",
+            "linux": "notion-app"
+        }
+    },
+    "jira": {
+        "aliases": [
+            "project management",
+            "tickets"
+        ],
+        "executables": {
+            "windows": "start https://atlassian.net",
+            "mac": "open https://atlassian.net",
+            "linux": "xdg-open https://atlassian.net"
+        }
+    },
+    "trello": {
+        "aliases": [
+            "kanban board",
+            "tasks"
+        ],
+        "executables": {
+            "windows": "start https://trello.com",
+            "mac": "open https://trello.com",
+            "linux": "xdg-open https://trello.com"
+        }
+    },
+    "asana": {
+        "aliases": [
+            "team tasks",
+            "project tracking"
+        ],
+        "executables": {
+            "windows": "start https://app.asana.com",
+            "mac": "open https://app.asana.com",
+            "linux": "xdg-open https://app.asana.com"
+        }
+    },
+    "camera": {
+        "aliases": [
+            "open camera",
+            "photo app"
+        ],
+        "executables": {
+            "windows": "start microsoft.windows.camera:"
+        }
+    },
+    "brave": {
+        "aliases": [
+            "open brave",
+            "brave",
+            "browser",
+            "open browser"
+        ],
+        "executables": {
+            "windows": "brave.exe"
+        }
+    }
+}
