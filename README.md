@@ -79,7 +79,7 @@ This assistant uses **custom-trained NLU models**. Train them via the companion 
 
 ### NER Model:
 
-➡ (Soon!!)
+➡ [Train NER model using this repo](https://github.com/shivamprasad1001/NER-Model)
 
 Once trained:
 
