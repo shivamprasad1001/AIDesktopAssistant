@@ -69,7 +69,7 @@ def assistant_loop():
             continue
 
         if user_input.lower() in ['exit', 'quit']:
-            print("👋 Goodbye!")
+            print(" Goodbye!")
             break
 
         intent = predict_intent(user_input)
@@ -85,3 +85,4 @@ def assistant_loop():
 
 if __name__ == "__main__":
     assistant_loop()
+
